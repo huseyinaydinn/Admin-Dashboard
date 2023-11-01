@@ -1,3 +1,2 @@
-
 Vercel Link: https://admin-dashboard-git-main-huseyinaydinn.vercel.app/
-https://github.com/huseyinaydinn/Admin-Dashboard/assets/100160834/c2f2bdc8-bb2f-4be1-aaad-d99bc134d012
+![admin-dashboard](https://github.com/huseyinaydinn/Admin-Dashboard/assets/100160834/8127bc8b-b7e7-419e-85e7-86cb3a0e649f)
