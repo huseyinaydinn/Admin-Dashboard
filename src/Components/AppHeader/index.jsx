@@ -1,6 +1,6 @@
 import { Badge, Drawer, List, Space, Typography } from "antd"
 import { BellFilled, MailOutlined } from '@ant-design/icons'
-import Logo from '../../img/Logo.svg'
+import Logo from '../../img/logo.svg'
 import { useEffect, useState } from "react"
 import { getComment, getOrders } from "../../API"
 
